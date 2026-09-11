@@ -1,2 +1,3 @@
-/cold
-/.env
+cold/
+.env
+__pycache__/
